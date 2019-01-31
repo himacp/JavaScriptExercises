@@ -33,9 +33,5 @@ function compare(x,y)  //FUNCTION OF COMPARISION
  {
   if (x.title > y.title)
     return true;
-
-//  else if(x.title < y.title)
-//  return -1;
-// else return 0;
  }
 console.log(library.sort(compare)); //OUTPUT
