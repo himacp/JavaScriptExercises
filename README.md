@@ -1,2 +1,2 @@
 # JAVA SCRIPT #
-Exercise questions
+Exercise questions https://github.com/himacp/JavaScriptExercises.git
